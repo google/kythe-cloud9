@@ -1,0 +1,26 @@
+{
+  "name": "google.kythe",
+  "version": "0.0.1",
+  "author": [
+    "Google, Inc."
+  ],
+  "permissions": "org",
+  "private": true,
+  "plugins": {
+    "main": {}
+  },
+  "engines": {
+    "c9": ">=3.1.527"
+  },
+  "categories": [
+    "google"
+  ],
+  "license": "Apache 2.0",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+}
